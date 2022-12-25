@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://gatsby.ghost.io",
+    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+  },
+  "production": {
+    "apiUrl": "https://bitcoin-herald-cms.herokuapp.com",
+    "contentApiKey": "6d9ccc8041cc77adda8c70d836"
+  }
+}
